@@ -9,7 +9,13 @@ A simple search engine and recommender for movies made using machine learning al
 - install dependencies using ``` pip install -r requirements.txt ```
 - Simply run the main file in a jupyter kernel or upload the file and dataset to Google Colab / Kaggle to run
 
-### Features to be Implemented:
+# Features to be Implemented:
+
+### Primary:
+
 - [ ] The system should be capable of allowing a user to select a genre and recommend some movies on it
-- [ ] The system must be capable of allowing the user to select multiple genres and recommend movies on it
 - [ ] The system must be able to fetch more movies based on what the user has watched
+
+### Secondary:
+- [ ] The system must be capable of allowing the user to select multiple genres and recommend movies on it.
+- [ ] Filtering of adult tagged movies.
