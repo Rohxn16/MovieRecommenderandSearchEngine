@@ -9,6 +9,11 @@ A simple search engine and recommender for movies made using machine learning al
 - install dependencies using ``` pip install -r requirements.txt ```
 - Simply run the main file in a jupyter kernel or upload the file and dataset to Google Colab / Kaggle to run
 
+# Approach to making the recommender system
+
+
+
+
 # Features to be Implemented:
 
 ### Primary:
